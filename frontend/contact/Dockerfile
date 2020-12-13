@@ -1,3 +1,4 @@
+#base image 
 FROM httpd
 COPY ./dist/contact/ /usr/local/apache2/htdocs/
 

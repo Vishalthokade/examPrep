@@ -1,5 +1,3 @@
-
-#base image 
 FROM mysql:5.7
 #setting a password for root user
 ENV MYSQL_ROOT_PASSWORD "root"

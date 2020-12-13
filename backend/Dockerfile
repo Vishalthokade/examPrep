@@ -1,3 +1,4 @@
+#base image 
 FROM node
 COPY . . 
 EXPOSE 4000
